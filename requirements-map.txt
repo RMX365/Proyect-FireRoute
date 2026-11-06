@@ -1,0 +1,2 @@
+# Solo para R2 (descarga del mapa desde OpenStreetMap). Es pesado; el resto del equipo NO lo necesita.
+osmnx>=1.9
