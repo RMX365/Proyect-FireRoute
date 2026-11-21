@@ -1,8 +1,18 @@
-.venv/
+# Archivos temporales de Python
 __pycache__/
-*.pyc
+*.py[cod]
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Caché de pruebas
 .pytest_cache/
-.vscode/*
-!.vscode/settings.json
-!.vscode/extensions.json
+
+# Configuraciones locales
+.idea/
+.vscode/
+
+# Archivos del sistema
 .DS_Store
+Thumbs.db
